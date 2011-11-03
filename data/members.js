@@ -1,0 +1,31 @@
+var Members = [{
+  name: "Tony Bacigalupo",
+  email: "tony@nwc.co",
+  twitter: "http://twitter.com/tonybgoode",
+  facebook: "http://facebook.com/tonybacigalupo",
+  linkedin: "http://linkedin.com/in/tonybacigalupo",
+  google: "https://plus.google.com/108873082813103018515/posts",
+  personal: "http://tonybacigalupo.com",
+  company: "New Work City",
+  companyUrl: "http://nwc.co",
+  otherUrl: "http://happymonster.co",
+  focus: "NWCU",
+  workStatus: "No",
+  hiringStatus: "No",
+  bio: "I like helping people be more awesome.",
+  tags: "community, coworking, karaoke, design, writing, philosophy, goldilocks planets",
+  obscure: "I am a world record holder. Kind of. Seriously though.",
+  imageUrl: "http://a0.twimg.com/profile_images/1428484217/subway-square.jpg"
+},{
+  name: "Sara Chipps",
+  email: "sarajchipps@gmail.com",
+  twitter: "http://twitter.com/sarajchipps",
+  facebook: "facebook.com/girldeveloper",
+  personal: "sarajchipps.com",
+  companyUrl: "http://girldevelopit.com",
+  focus: "JavaScript",
+  workStatus: "Yes - I'm happy to talk",
+  hiringStatus: "No",
+  bio: "I'm a NYC based JavaScript developer that specializes in elegant frontend solutions.  ",
+  tags: "JavaScript, Software, Web Development"
+}];
